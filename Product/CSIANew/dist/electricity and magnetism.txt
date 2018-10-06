@@ -1,0 +1,90 @@
+1. In a particular lightning flash a charge of 15C flows in a time of 0.5ms. What is the average current?
+A. 33 μA
+B. 7.5 mA
+C. 30 A
+D. 30 kA
+D
+2. A heating coil is connected to a battery of electromotive force (emf) 10V and negligible internal resistance. The power dissipated in the coil is 25 W. What is the resistance of the coil?
+A. 0.25 ohms
+B. 2.5 ohms
+C. 4.0 ohms
+D. 250 ohms
+C
+3. Lenz’s law relates to electromagnetic induction. This law is a consequence of the conservation of which physical quantity?
+A. Momentum
+B. Energy
+C. Charge
+D. Current
+B
+4. Electric field strength is defined as
+A. the force per unit charge on a small positive test charge
+B. the force per unit charge on a small negative test charge
+C. the force per unit charge on a unit positive charge
+D. the force per unit charge on a unit negative charge
+A
+5. Two metal wires A and B have identical currents flowing in them. Wire A has a smaller cross-sectional area than B. This means wire A must also
+A. have charge carriers with a larger charge than B
+B. be longer than B
+C. have fewer charge carriers per unit volume than B
+D. have a higher charge drift velocity than B
+D
+6. An electron travelling at speed v perpendicular to a magnetic field of strength B experiences a force F. What is the force acting on an alpha particle travelling at 2v parallel to a magnetic field of strength 2B?
+A. 0
+B. 2F
+C. 4F
+D. 8F
+A
+7. A direct current (dc) of 5A dissipates a power P in a resistor. Which peak value of the alternating current (ac) will dissipate an average power P in the same resistor?
+A. 5A
+B. (5/2)A
+C. 5/(√2)A
+D. 5√2A
+D
+8. What are the units of magnetic flux and magnetic field strength?
+A. Magnetic flux: Wbm^-2; Magnetic field strength: Wb
+B. Magnetic flux: Wb; Magnetic field strength: T
+C. Magnetic flux: Wb; Magnetic field strength: Tm^-2
+D. Magnetic flux: Tm^-2; Magnetic field strength: Wbm^-2
+B
+9. A battery is used to charge a capacitor fully through a resistor of resistance R. The energy supplied by the battery is Eb. The energy stored by the capacitor is Ec. What is the relationship between Eb and Ec?
+A. Eb < Ec
+B. Eb = Ec
+C. Eb > Ec
+D. The relationship depends on R.
+C
+10. A capacitor is charged by a constant current of 2.5µA for 100s. As a result the potential difference across the capacitor increases by 5.0V. What is the capacitance of the capacitor?
+A. 20µF
+B. 50µF
+C. 20mF
+D. 50mF
+B
+11. An electron is accelerated through a potential difference of 2.5 MV. What is the change in kinetic energy of the electron?
+A. 0.4µJ
+B. 0.4 nJ
+C. 0.4 pJ
+D. 0.4 fJ 
+C
+12. A charge of − 3C is moved from A to B and then back to A. The electric potential at A is +10V and the electric potential at B is − 20  V. What is the work done in moving the charge from A to B and the total work done?
+A. Work done in moving from A to B：30J; Total work done: 0J
+B. Work done in moving from A to B：30J; Total work done: 60J
+C. Work done in moving from A to B：90J; Total work done: 0J
+D. Work done in moving from A to B：90J; Total work done: 180J
+C
+13. In an experiment, oil droplets of mass m and charge q are dropped into the region between two horizontal parallel plates. The electric field E between the plates can be adjusted. Air resistance is negligible. Which is correct when the droplets fall vertically at constant velocity?
+A. E = 0
+B. E < (mg)/q
+C. E = (mg)/q
+D. E > (mg)/q
+C
+14. A 12V battery has an internal resistance of 2.0W. A load of variable resistance is connected across the battery and adjusted to have resistance equal to that of the internal resistance of the battery. Which statement is correct for this circuit?
+A. The current in the battery is 6A
+B. The potential difference across the load is 12V
+C. The power dissipated in the battery is 18W
+D. The resistance in the circuit is 1.0W
+C
+15. A wire carrying a current I is at right angles to a uniform magnetic field of strength B. A magnetic force F is exerted on the wire. Which force acts when the same wire is placed at right angles to a uniform magnetic field of strength 2B when the current is 4I?
+A. F/4
+B. F/2
+C. F
+D. 2F
+B

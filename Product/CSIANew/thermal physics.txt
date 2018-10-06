@@ -1,0 +1,90 @@
+1. What is thermal conduction mainly due to in a gas?
+A. The motion of free electrons
+B. Fast molecules transferring energy to slower molecules
+C. Slow molecules transferring energy to faster molecules
+D. Lattice vibrations causing collisions with neighbouring molecules
+B
+2. A fixed mass of an ideal gas in a closed container with a movable piston initially occupies a volume V. The position of the piston is changed, so that the mean kinetic energy of the particles in the gas is doubled and the pressure remains constant. What is the new volume of the gas?
+A. V/4
+B. V/2
+C. 2V
+D. 4V
+C
+3. An ideal gas has a volume of 15 ml, a temperature of 20°C and a pressure of 100 kPa. The volume of the gas is reduced to 5 ml and the temperature is raised to 40°C. What is the new pressure of the gas?
+A. 600 kPa
+B. 320 kPa
+C. 200 kPa
+D. 35 kPa
+B
+4. The fraction of the internal energy that is due to molecular vibration varies in the different states of matter. What gives the order from highest fraction to lowest fraction of internal energy due to molecular vibration?
+A. liquid > gas > solid
+B. solid > liquid > gas
+C. solid > gas > liquid
+D. gas > liquid > solid
+B
+5. What does the constant n represent in the equation of state for an ideal gas pV = nRT ?
+A. The number of atoms in the gas
+B. The number of moles of the gas
+C. The number of molecules of the gas
+D. The number of particles in the gas
+B
+6. Steam has a high internal energy and can cause severe burns. Internal energy is defined as...
+A. the total intermolecular potential and random kinetic energy of the molecules of a substance
+B. the total intermolecular potential energy only
+C. the total kinetic energy only
+D. the total kinetic, potential and chemical energy stored in a substance
+A
+7. The element Helium has an atomic mass of 4 and a proton number of 2. How many moles are there in 20 g of Helium gas?
+A. 2
+B. 4
+C. 5
+D. 10
+C
+8. A student writes down three statements about the molecules in a gas: I : The molecules are much smaller than the space between molecules. II : The forces between the molecules are negligible. III. All collisions between molecules and the walls of the container are elastic. Which of these statements are true for an ideal gas?
+A. I only
+B. I and II only
+C. II and III only
+D. I , II and III
+D
+9. A real gas behaves similarly to an ideal gas when the pressure and density of the gas are suitable. Which of these statements best describes these pressure and density conditions?
+A. Density: low; Pressure: low
+B. Density: low; Pressure: high
+C. Density: high; Pressure: low
+D. Density: high; Pressure: high
+A
+10. Heat energy will flow from a hot small steel block to a cold large copper block in contact with each other until
+A. the blocks are at the same temperature
+B. the blocks contain the same internal heat energy
+C. the molecules in both blocks have the same momentum when they collide
+D. the blocks have the same heat capacity
+A
+11. Which of the following is numerically equal to the specific heat capacity of the substance of a solid body?
+A. The thermal energy required to melt the body
+B. The thermal energy required to increase the temperature of unit mass of the body by 1K
+C. The thermal energy required to increase the temperature of the body by 1K
+D. The total kinetic and potential energy of all the molecules in the body
+B
+12. In the kinetic model of an ideal gas, which of the following is not assumed?
+A. The molecules collide elastically
+B. The kinetic energy of a given molecule is constant
+C. The time taken for a molecular collision is much less than the time between collisions
+D. The intermolecular potential energy of the molecules is zero
+B
+13. A fixed mass of an ideal gas undergoes an isochoric (isovolumetric) change. This increases the pressure of the gas. Which describes the change of internal energy of the gas and the direction of transfer of thermal energy? 
+A. Internal energy: increase; Direction of transfer of thermal energy: to the gas
+B. Internal energy: increase; Direction of transfer of thermal energy: from the gas
+C. Internal energy: decrease; Direction of transfer of thermal energy: to the gas
+D. Internal energy: decrease; Direction of transfer of thermal energy: from the gas
+A
+14. Which of the following is an assumption of the kinetic model of an ideal gas?
+A. The gas is at high pressure
+B. There are weak forces of attraction between the particles in the gas
+C. The collisions between the particles are elastic
+D. The energy of the particles is proportional to the absolute temperature
+A
+15. A block of ice at 0°C is placed on a surface and allowed to melt completely to give water at 0°C. During this process the entropy of the
+A. molecules in the block has decreased
+B. surroundings has increased
+C. universe has increased
+D. universe has decreased
+C

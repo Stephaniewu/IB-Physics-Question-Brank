@@ -1,0 +1,90 @@
+1. Simple harmonic motion (SHM) is defined as motion where
+A. the velocity is proportional to the displacement, directed away from the centre of motion
+B. the velocity is proportional to the acceleration, directed towards the centre of motion
+C. the acceleration is proportional to the velocity, directed away from the centre of motion
+D. the acceleration is proportional to the displacement, directed towards the centre of motion
+D
+2. Which of these answers gives the points of maximum velocity and acceleration of a mass spring?
+A. Velocity maximum at: the top; acceleration maximum at: the centre
+B. Velocity maximum at: the centre; acceleration maximum at: the top
+C. Velocity maximum at: the top; acceleration maximum at: the top
+D. Velocity maximum at: the centre; acceleration maximum at: the centre
+B
+3. A large pendulum swings from the left to the right in 2 seconds. The frequency of the pendulum is:
+A. 0.25 Hz
+B. 0.5 Hz
+C. 2 Hz
+D. 4 Hz
+A
+4. SHM is present in many oscillating systems. Which of the following is NOT an “SHM oscillation”?
+A. A mass bouncing up and down on a spring
+B. A column of water oscillating in a U shaped tube
+C. The end of a ruler vibrating backwards and forwards
+D. A ball bouncing up and down on the floor
+D
+5. Which of these can be used to polarise light?
+A. Polaroid filters and reflection from plane surfaces
+B. Coloured filters and reflection from plane surfaces
+C. Polaroid filters and transmission through a vacuum
+D. Coloured filters and transmission through a vacuum
+C
+6. A light ray passes through 2 polarising filters. The first filter polarises the wave in a vertical plane and the transmitted light I1 observed. The second filter is rotated and the transmitted light I2 observed. The final light intensity I2 is compared to I1 , the intensity after the first filter. What is the intensity of I2 when the angle between the two filters is 45 degrees, given that cos(45 degrees) = 1/√2?
+A. I2 = (1/√2) I1
+B. I2 = (1/2) I1
+C. I2 = (1/4) I1
+D. I2 = I1
+D
+7. Total internal reflection can occur when light is trapped inside glass . This is used in optical fibres. To ensure total internal reflection occurs and the light ray remains inside the glass,
+A. the refractive index of the glass must be small and the angle of incidence must be small
+B. the refractive index of the glass must be small and the angle of incidence must be large
+C. the refractive index of the glass must be large and the angle of incidence must be small
+D. the refractive index of the glass must be large and the angle of incidence must be large
+B
+8. The effects of diffraction are clearest in a demonstration when two quantities are similar. What are these quantities?
+A. Frequency and slit width
+B. Wavelength and slit width
+C. Wavelength and amplitude
+D. Slit width and amplitude
+B
+9. The intensity I of sound waves is measured at a distance x away from a loud speaker. The amplitude of the sound waves measured is A. If the amplitude is increased to 4A and then the distance increased to 2x, the measured intensity will be
+A. I / 2
+B. 2I
+C. 4I
+D. 8I
+B
+10. Destructive interference between the 2 rays will occur if
+A. the path difference is λ
+B. the path difference is λ/2
+C. the slit separation is λ
+D. the slit separation is λ/2
+B
+11. The adding together of two waves like this is correctly termed the
+A. summation of waves
+B. superposition of waves
+C. negation of waves
+D. vector addition of waves
+B
+12. Two waves will produce constructive interference if the phase difference is
+A. 720 degrees
+B. 540 degrees
+C. 450 degrees
+D. 180 degrees
+A
+13. An interference pattern will only occur between any two waves if
+A. the amplitude is the same
+B. the phase difference is the same
+C. the angle of diffraction is the same
+D. the waves are from the same source
+B
+14. The wavelength of an ultra-violet wave is approximately
+A. 10^-4m
+B. 10^-6m
+C. 10^-8m
+D. 10^-10m
+D
+15. A standing wave is typically formed by 2 waves meeting. Which of these statements about the 2 waves is correct?
+A. The waves must be travelling in the same direction, and have different wavelengths
+B. The waves must be travelling in opposite directions, and have different wavelengths
+C. The waves must be travelling in the same direction, and have the same wavelength
+D. The waves must be travelling in opposite directions, and have the same wavelength
+D

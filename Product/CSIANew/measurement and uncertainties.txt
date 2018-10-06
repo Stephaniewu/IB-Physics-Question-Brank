@@ -1,0 +1,90 @@
+1. The radius of a sphere is measured with an uncertainty of 2%. What is the uncertainty in the volume of the sphere? 
+A. 2%
+B. 4% 
+C. 6%
+D. 8%
+C
+2. Which of the following is a unit of energy?
+A. kgm–1 s–1
+B. kgm2s–2
+C. kgms–2
+D. kgm2s–1
+B
+3. What is the unit for surface heat capacity?
+A. Nm–2K–1
+B. kgms–2K–1
+C. kg s–2K–1
+D. Nm–3K–1
+C
+4. A cube has sides of length 10 (±1) mm. What is the percentage uncertainty in the volume of the cube?
+A. 1%
+B. 3%
+C. 10%
+D. 30%
+D
+5. Which of these is a base quantity?
+A. current
+B. power
+C. energy
+D. acceleration	
+A	
+6. Which of these is a derived unit?
+A. amp
+B. kilogram
+C. joule
+D. second
+C
+7. A power station has an output of 2.5 GW. This is
+A. 2,500 W
+B. 2,500,000 W
+C. 25,000,000 W
+D. 2,500,000,000 W
+D
+8. Box A has a mass of 14 kg ± 2 kg. Box B has a mass of 24 kg ± 3 kg. The total mass of both boxes is
+A. 38 kg ± 2 kg
+B. 38 kg ± 2.5 kg
+C. 38 kg ± 3 kg
+D. 38 kg ± 5 kg
+D
+9. A cube has a side length of 10 cm ± 1 cm. The volume of the cube is
+A. 1000 cm ± 3 cm
+B. 1000 cm ± 1 cm
+C. 1000 cm ± 300 cm
+D. 1000 cm ± 100 cm
+A
+10. A digital balance gives a mass reading of 72.0g. The mass of the block shown should be recorded as
+A. 72.0 g ± 0.05 g
+B. 72.0 g ± 0.1 g
+C. 72.0 g ± 0.5 g
+D. 72 g ± 1 g
+A
+11. Which of these is a vector quantity?
+A. pressure
+B. mass
+C. force
+D. time
+C
+12. Which of these is a scalar quantity?
+A. displacement
+B. power
+C. velocity
+D. acceleration
+B
+13. A vector quantity has
+A. size only
+B. size and direction
+C. direction only
+D. neither size nor direction
+B
+14. A star is found to have : Mass = 2 x 10^27 kg, Radius = 1.1 x 10^8 m, Volume = 1.8 x 10^24 m3. The surface area of the star is about
+A. 10^17 m2
+B. 10^15 m2
+C. 10^9 m2
+D. 10^8 m2
+A
+15. Which of these numbers represents the prefix “nano”?
+A. 10^-3
+B. 10^-6
+C. 10^-9
+D. 10^-12
+C

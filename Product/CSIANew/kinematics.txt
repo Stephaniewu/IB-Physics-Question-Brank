@@ -1,0 +1,90 @@
+1. In the collision between two bodies, Newton’s third law
+A. only applies if momentum is conserved in the collision.
+B. only applies if energy is conserved in the collision.
+C. only applies if both momentum and energy are conserved in the collision.
+D. always applies.
+D
+2. A truck is pulled up an inclined plane at constant speed by an electric motor. The gain in potential energy of the truck is 48kJ. The efficiency of the electric motor is 2/3. How much energy is dissipated in pulling the truck up the plane?
+A. 16kJ
+B. 24kJ
+C. 32kJ
+D. 64kJ
+B
+3. Which of the following is a condition for an object to be in translational equilibrium?
+A. The object must be moving at constant speed.
+B. The velocity of the object in any direction must be zero.
+C. The forces acting horizontally on the object must equal the forces acting vertically on the object.
+D. The resultant force acting on the object must be zero.
+D
+4. A boy jumps from a wall 3m high. What is an estimate of the change in momentum of the boy when he lands without rebounding?
+A. 5×10^0kgms^–1
+B. 5×10^1kgms^–1
+C. 5×10^2kgms^–1
+D. 5×10^3kgms^–1
+C
+5. An object of mass 2kg is thrown vertically downwards with an initial kinetic energy of 100J. What is the distance fallen by the object at the instant when its kinetic energy has doubled?
+A. 2.5m
+B. 5.0m
+C. 10m
+D. 14m
+B
+6. A student of weight 600N climbs a vertical ladder 6.0m tall in a time of 8.0s. What is the power developed by the student against gravity?
+A. 22W
+B. 45W
+C. 220W
+D. 450W
+D
+7. A tennis ball - initially at rest - is dropped from a height of 5 m. What is the impact velocity of the ball?
+A. 5 ms-1
+B. 10 ms-1
+C. √50 ms-1
+D. 100 ms-1
+B
+8. A tennis ball - initially at rest - is dropped from a height of 5 m. How long did it take for the ball to fall?
+A. 2 s
+B. 0.5 s
+C. 1 s
+D. 10 s
+C
+9. Which of these answers correctly labels the letters “s”, “v” and “u” in the “suvats” equations?
+A. s= speed, v = initial velocity, u = final velocity
+B. s= speed, v = final velocity, u = initial velocity
+C. s= displacement, v = initial velocity, u = final velocity
+D. s= displacement, v = final velocity, u = initial velocity
+D
+10. A ball is rolled down a steep slope. The initial velocity is 2 ms-1 and it accelerates at a rate of 4 ms-2 for 5 seconds. What is the final velocity of the ball?
+A. 20 ms-1
+B. 22 ms-1
+C. 24 ms-1
+D. 10 ms-1
+B
+11. A ball is rolled down a steep slope. The initial velocity is 2 ms-1 and it accelerates at a rate of 4 ms-2 for 5 seconds. How far does the ball roll in this time?
+A. 8 m
+B. 28 m
+C. 60 m
+D. 58 m
+C
+12. A stone is thrown horizontally at 10 ms-1 from a cliff of height 5 m. Air resistance can be ignored. Which of these correctly describes the changes in the horizontal and vertical components of velocity of the stone?
+A. horizontal velocity: constant; vertical velocity: increasing
+B. horizontal velocity: increasing; vertical velocity: constant
+C. horizontal velocity: constant; vertical velocity: constant
+D. horizontal velocity: decreasing; vertical velocity: increasing
+A 
+13. A stone is thrown horizontally at 10 ms-1 from a cliff of height 5 m. Air resistance can be ignored. The stone takes 1 second to reach the ground. How far from the cliff edge does the stone land?
+A. 10 m
+B. 20 m
+C. 30 m
+D. 40 m
+A
+14. Which of Newton's laws of motion states that "all objects will continue moving in a straight line at constant velocity unless acted on by a net force"?
+A. Newton's First Law
+B. Newton's Second Law
+C. Newton's Third Law
+D. Newton's Fourth Law
+A
+15. When an object is moving in a straight line at constant velocity, with no net forces acting, it is said to be in
+A. balance
+B. translational equilibrium
+C. stasis
+D. vector equality
+B

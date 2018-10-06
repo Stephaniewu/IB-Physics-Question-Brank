@@ -1,0 +1,90 @@
+1. Which one of the following best describes a “centripetal” force?
+A. A force acting against motion that produces circular motion.
+B. A force acting at right angles to the velocity of a body, that produces circular motion.
+C. A force caused by circular motion, acting at right angles to the velocity and pushing a body away from the centre of the circle.
+D. A force caused by circular motion, making the speed of a body change.
+B
+2. What force keeps an electron in orbit around a nucleus?
+A. An electrical force.
+B. A gravitational force.
+C. A centrifugal force.
+D. Frictional forces.
+A
+3. Which of the following best describes the changes to speed and velocity (if any) as an object moves in orbit, such as a moon around a planet?
+A. Velocity: constant; Speed: constant
+B. Velocity: changes; Speed: constant
+C. Velocity: constant; Speed: changes
+D. Velocity: changes; Speed: changes
+B
+4. A child is riding on a roundabout ride. After 2 seconds, the child has completed half a rotation. What is the angular velocity of this roundabout?
+A. 0 rad s-1
+B. ¼π rad s-1
+C. ½π rad s-1
+D. π rad s-1
+D
+5. The acceleration of gravity, “g” is defined as
+A. the force of gravity acting per unit mass.
+B. the force of gravity acting per unit time.
+C. the change in velocity per unit mass.
+D. the change in velocity per unit volume.
+A
+6. A small satellite of mass m is in orbit around a large planet of mass M at a distance of r from the centre of the planet. The gravitational constant is “G”. The value of the acceleration of gravity “g” acting on the satellite is calculated. What is these statements is true?
+A. The value of g is independent of the value of r.
+B. The value of g is independent of the value of M.
+C. The value of g is independent of the value of G.
+D. The value of g is independent of the value of m.
+D
+7. A spacecraft moves towards the Earth under the influence of the gravitational field of the Earth. The three quantities that depend on the distance r of the spacecraft from the centre of the Earth are the I. gravitational potential energy of the spacecraft II gravitational field strength acting on the spacecraft III. gravitational force acting on the spacecraft. Which of the quantities are proportional to 1/(r^2)?
+A. I and II only
+B. I and III only
+C. II and III only
+D. I, II and III
+C
+8. A pendulum oscillating near the surface of the Earth swings with a time period T. What is the time period of the same pendulum near the surface of the planet Mercury where the gravitational field strength is 0.4g?
+A. 0.4T
+B. 0.6T
+C. 1.6T
+D. 2.5T
+C
+9. A mass connected to one end of a rigid rod rotates at constant speed in a vertical plane about the other end of the rod. The force exerted by the rod on the mass is
+A. zero everywhere.
+B. constant in magnitude.
+C. always directed towards the centre.
+D. a minimum at the top of the circular path.
+D
+10. An object at the end of a wooden rod rotates in a vertical circle at a constant angular velocity. What is correct about the tension in the rod?
+A. It is greatest when the object is at the bottom of the circle.
+B. It is greatest when the object is halfway up the circle.
+C. It is greatest when the object is at the top of the circle.
+D. It is unchanged throughout the motion.
+A
+11. Which single condition enables Newton’s universal law of gravitation to be used to predict the force between the Earth and the Sun?
+A. The Earth and the Sun both have a very large radius.
+B. The distance between the Earth and the Sun is approximately constant.
+C. The Earth and the Sun both have a very large mass.
+D. The Earth and the Sun behave as point masses.
+A
+12. Newton's Law of gravitation states (in part) that the force between two masses is
+A. proportional to the square of the distance between them
+B. proportional to the sum of the masses
+C. inversely proportional to the square of the distance between them
+D. inversely proportional to the product of the masses
+C
+13. The force between two objects of mass M and m separated by a distance r is F. If the distance is decreased to r/4 and the mass M increased to 4M, the new force will be
+A. F
+B. 4F
+C. 16F
+D. 64F
+D
+14. The gravitational field strength is defined as the
+A. force per unit distance
+B. force per unit mass
+C. acceleration of gravity
+D. acceleration per unit mass
+B
+15. The gravitational field in the region around the Earth is correctly described as
+A. circular
+B. polar
+C. radial
+D. uniform
+C
